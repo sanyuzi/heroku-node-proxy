@@ -1,1 +1,1 @@
-web: npm start
+web: herokuAddr=tuitedaili.herokuapp.com/ npm run start
